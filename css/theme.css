@@ -145,11 +145,11 @@
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: radial-gradient(right bottom , circle cover , rgb(255, 102, 102) 2% , rgb(255, 61, 61) 35% , rgb(198, 45, 31) 61% , rgb(225, 7, 7) 81%);
-background: -o-radial-gradient(right bottom , circle cover , rgb(255, 102, 102) 2% , rgb(255, 61, 61) 35% , rgb(198, 45, 31) 61% , rgb(225, 7, 7) 81%);
-background: -ms-radial-gradient(right bottom , circle cover , rgb(255, 102, 102) 2% , rgb(255, 61, 61) 35% , rgb(198, 45, 31) 61% , rgb(225, 7, 7) 81%);
-background: -moz-radial-gradient(right bottom , circle cover , rgb(255, 102, 102) 2% , rgb(255, 61, 61) 35% , rgb(198, 45, 31) 61% , rgb(225, 7, 7) 81%);
-background: -webkit-radial-gradient(right bottom , circle cover , rgb(255, 102, 102) 2% , rgb(255, 61, 61) 35% , rgb(198, 45, 31) 61% , rgb(225, 7, 7) 81%);
+	background: radial-gradient(right bottom , circle cover , rgb(255, 102, 102) 2% , rgb(255, 65, 65) 35% , rgb(124, 53, 47) 61% , rgb(60, 3, 3) 81%);
+background: -o-radial-gradient(right bottom , circle cover , rgb(255, 102, 102) 2% , rgb(255, 65, 65) 35% , rgb(124, 53, 47) 61% , rgb(60, 3, 3) 81%);
+background: -ms-radial-gradient(right bottom , circle cover , rgb(255, 102, 102) 2% , rgb(255, 65, 65) 35% , rgb(124, 53, 47) 61% , rgb(60, 3, 3) 81%);
+background: -moz-radial-gradient(right bottom , circle cover , rgb(255, 102, 102) 2% , rgb(255, 65, 65) 35% , rgb(124, 53, 47) 61% , rgb(60, 3, 3) 81%);
+background: -webkit-radial-gradient(right bottom , circle cover , rgb(255, 102, 102) 2% , rgb(255, 65, 65) 35% , rgb(124, 53, 47) 61% , rgb(60, 3, 3) 81%);
 }
 
 
